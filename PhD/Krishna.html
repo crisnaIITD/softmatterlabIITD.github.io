@@ -11,14 +11,25 @@
     <nav class="bg-blue-900 text-white py-4 fixed top-0 w-full">
         <div class="container mx-auto flex justify-between items-center">
             <div class="text-2xl font-bold">
-                Soft Matter Lab
+                <a href="index.html">Soft Matter Lab</a>
             </div>
-            <div class="space-x-4">
-                <a href="../index.html" class="px-4">Home</a>
-                <a href="../team.html" class="px-4">The Team</a>
-                <a href="../research.html" class="px-4">Research</a>
-                <a href="../publications.html" class="px-4">Publications</a>
+            <div class="hidden md:flex space-x-4">
+                <a href="index.html" class="px-4">Home</a>
+                <a href="Research.html" class="px-4">Research</a>
+                <a href="team.html" class="px-4">The Team</a>
+                <a href="publications.html" class="px-4">Publications</a>
+                <a href="teaching.html" class="px-4">Teaching</a>
             </div>
+            <button id="menu-toggle" class="md:hidden flex items-center px-3 py-2 border rounded">
+                <svg class="fill-current h-6 w-6" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+            </button>
+        </div>
+        <div id="menu" class="hidden md:hidden container mx-auto flex flex-col space-y-4 mt-4">
+            <a href="index.html" class="px-4">Home</a>
+            <a href="Research.html" class="px-4">Research</a>
+            <a href="team.html" class="px-4">The Team</a>
+            <a href="publications.html" class="px-4">Publications</a>
+            <a href="teaching.html" class="px-4">Teaching</a>
         </div>
     </nav>
 
@@ -73,5 +84,17 @@
     <footer class="bg-blue-900 text-white py-5 text-center">
         <p>&copy; 2023 Soft Matter Lab, IIT Delhi. All rights reserved.</p>
     </footer>
+
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const menuToggle = document.getElementById("menu-toggle");
+            const menu = document.getElementById("menu");
+
+            menuToggle.addEventListener("click", function() {
+                menu.classList.toggle("hidden");
+            });
+        });
+    </script>
 </body>
 </html>

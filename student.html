@@ -57,5 +57,16 @@
     <footer class="bg-blue-900 text-white py-5 text-center">
         <p>&copy; 2023 Soft Matter Lab, IIT Delhi. All rights reserved.</p>
     </footer>
+
+        <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const menuToggle = document.getElementById("menu-toggle");
+            const menu = document.getElementById("menu");
+
+            menuToggle.addEventListener("click", function() {
+                menu.classList.toggle("hidden");
+            });
+        });
+    </script>
 </body>
 </html>
