@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Soft Matter Lab</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+    <script src="script.js" defer></script>
 </head>
 <body class="bg-gray-100">
     <!-- Navigation Bar -->
@@ -13,40 +14,33 @@
             <div class="text-2xl font-bold">
                 Soft Matter Lab
             </div>
-            <div class="space-x-4">
+            <div class="hidden md:flex space-x-4">
                 <a href="index.html" class="px-4">Home</a>
                 <a href="Research.html" class="px-4">Research</a>
-                <a href="team.html" class="px-4">The Team</a> 
+                <a href="team.html" class="px-4">The Team</a>
                 <a href="publications.html" class="px-4">Publications</a>
                 <a href="teaching.html" class="px-4">Teaching</a>
             </div>
+            <button id="menu-toggle" class="md:hidden flex items-center px-3 py-2 border rounded">
+                <svg class="fill-current h-6 w-6" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+            </button>
+        </div>
+        <div id="menu" class="md:hidden container mx-auto flex flex-col space-y-4 mt-4">
+            <!-- Links will go here -->
         </div>
     </nav>
 
-    <!-- Main Content -->
-    <main class="container mx-auto px-4">
-        <!-- Welcome Section -->
-        <section class="my-5">
-            <h1 class="text-4xl font-bold">Welcome to Soft Matter Lab</h1>
-        </section>
-
-        <!-- Full-width Lab Image -->
-        <img src="images/lab_space.jpg" alt="Soft Matter Lab" class="w-full">
-
-
-        <!-- Recent News -->
-        <section id="news" class="my-5">
-            <h2 class="text-2xl font-semibold">Recent News</h2>
-            <ul class="list-disc list-inside mt-2">
-                <li>New paper published in Journal XYZ.</li>
-                <li>PhD student ABC won an award.</li>
-            </ul>
-        </section>
-    </main>
-
-    <!-- Footer -->
-    <footer class="bg-blue-500 text-white py-5 text-center">
-        <p>&copy; 2023 Soft Matter Lab, IIT Delhi. All rights reserved.</p>
-    </footer>
+    <!-- Rest of the content -->
+    <!-- ... -->
 </body>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const menuToggle = document.getElementById("menu-toggle");
+    const menu = document.getElementById("menu");
+
+    menuToggle.addEventListener("click", function() {
+        menu.classList.toggle("hidden");
+    });
+});
+</script>
 </html>
