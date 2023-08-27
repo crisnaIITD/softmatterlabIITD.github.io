@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications - Soft Matter Lab</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+    <script src="Publications/publications.js"></script>
+</head>
+<body class="bg-gray-100">
+    <!-- Navigation Bar -->
+    <nav class="bg-blue-500 text-white py-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <div class="text-2xl font-bold">
+                Soft Matter Lab
+            </div>
+            <div class="space-x-4">
+                <a href="index.html" class="px-4">Home</a>
+                <a href="Research.html" class="px-4">Research</a>
+                <a href="team.html" class="px-4">The Team</a> 
+                <a href="publications.html" class="px-4">Publications</a>
+                <a href="teaching.html" class="px-4">Teaching</a>
+            </div>
+        </div>
+    </nav>
+    <!-- Main Content -->
+    <main class="container mx-auto px-4">
+        <!-- Publications -->
+        <section id="publications-section" class="my-5">
+            <h1 class="text-4xl font-bold">Publications</h1>
+            <ul id="publications-list" class="list-decimal list-inside mt-2">
+                <!-- Publications will be populated here -->
+            </ul>
+            <section id="publications-section" class="my-5">
+                <button onclick="loadMore('Papers', 'publications-list')" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                    Load More
+                  </button>
+                  <button onclick="showLess('Papers', 'publications-list')" class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">
+                    Show Less
+                  </button>
+            </section>
+        </section>
+
+        <!-- Book Chapters -->
+        <section id="chapters-section" class="my-5">
+            <h2 class="text-2xl font-semibold">Book Chapters</h2>
+            <ul id="chapters-list" class="list-decimal list-inside mt-2">
+                <!-- Book chapters will be populated here -->
+            </ul>
+        </section>
+
+        <!-- Conference Presentations -->
+        <section id="conferences-section" class="my-5">
+            <h2 class="text-2xl font-semibold">Conference Presentations</h2>
+            <ul id="conferences-list" class="list-decimal list-inside mt-2">
+                <!-- Conference presentations will be populated here -->
+            </ul>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-blue-500 text-white py-5 text-center">
+        <!-- ... -->
+    </footer>
+</body>
+</html>

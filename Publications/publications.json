@@ -1,0 +1,310 @@
+{
+    "Papers": [
+        {
+          "Title": "Kinetics of sub-spinodal dewetting of thin films of thickness dependent viscosity",
+          "Authors": "T. Rao. Kotni, R. Khanna, J. Sarkar",
+          "Journal": "Journal of Physics: Condensed Matter",
+          "Year": "2017"
+        },
+        {
+          "Title": "Failure Regimes of single wet granular aggregate under Shear",
+          "Authors": "J. Sarkar, D. Dubey",
+          "Journal": "Journal of Non-Newtonian Fluid Mechanics",
+          "Year": "2016"
+        },
+        {
+          "Title": "CFD of mixing of multi phase flow in a bioreactor using population balance model",
+          "Authors": "J. Sarkar, L. Shekhawat, V. Loomba, A.Rathore",
+          "Journal": "Biotechnology Progress",
+          "Year": "2016"
+        },
+        {
+          "Title": "Mechanical Strain Induced Tunable Anisotropic Wetting on Buckled PDMS Silver Nanorods Arrays",
+          "Authors": "P. Goel , S. Kumar , J. Sarkar , and J. P. Singh",
+          "Journal": "ACS APPL. MATER. INTERFACES",
+          "Year": "2015"
+        },
+        {
+          "Title": "Miniaturized Pattern Formation in Elastic Films cast on Sinusoidally Patterned Substrates",
+          "Authors": "H. Annepu and J. Sarkar",
+          "Journal": "LANGMUIR",
+          "Year": "2014"
+        },
+        {
+          "Title": "Kinetically engendered subspinodal length scales in spontaneous dewetting of thin liquid films",
+          "Authors": "T. Rao Kotni, J. Sarkar and R. Khanna",
+          "Journal": "PHYSICAL  REVIEW  E, RAPID COMMUNICATIONS",
+          "Year": "2014"
+        },
+        {
+          "Title": "Squeezing instabilities and delamination in elastic bilayers: A linear stability analysis",
+          "Authors": "H. Annepu and J. Sarkar",
+          "Journal": "PHYSICAL REVIEW E",
+          "Year": "2012"
+        },
+        {
+          "Title": "Contact Instability of a Soft Elastic Film Bonded to a Patterned Substrate",
+          "Authors": "J. Sarkar, H. Annepu and A. Sharma",
+          "Journal": "JOURNAL OF ADHESION",
+          "Year": "2011"
+        },
+        {
+          "Title": "A Unified Theory of Instabilities in Viscoelastic Thin Films: FromWetting to Confined Films, From Viscous to Elastic Films, From Short To Long Waves",
+          "Authors": "J. Sarkar, A. Sharma and V. Shenoy",
+          "Journal": "LANGMUIR",
+          "Year": "2010"
+        },
+        {
+          "Title": "Electric-field induced instabilities and morphological phase transitions in soft elastic films",
+          "Authors": "J. Sarkar, A. Sharma and V. Shenoy",
+          "Journal": "PHYSICAL REVIEW E",
+          "Year": "2008"
+        },
+        {
+          "Title": "Electric Field Induced Morphological Transitions in Elastic-Contact-Instability of Soft-Solid Films",
+          "Authors": "N. Arun, J.Sarkar, A.Sharma, V.B.Shenoy and K.S. Narayan",
+          "Journal": "JOURNAL OF ADHESION",
+          "Year": "2007"
+        },
+        {
+          "Title": "Contact Instability in Adhesion and Debonding of Thin Elastic Films",
+          "Authors": "M. Gonguntla, A. Sharma, J. Sarkar, S.A. Subramanian, M. Ghosh, V.Shenoy",
+          "Journal": "PHYSICAL REVIEW LETTERS",
+          "Year": "2006"
+        },
+        {
+          "Title": "Confinement-induced instability and adhesive failure between dissimilar thin elastic films",
+          "Authors": "J. Y. Chung, K. Kim, M. K. Chaudhury, J. Sarkar and A. Sharma",
+          "Journal": "THE EUROPEAN PHYSICAL JOURNAL E",
+          "Year": "2006"
+        },
+        {
+          "Title": "Adhesion and debonding of soft elastic films on rough and patterned surfaces",
+          "Authors": "J. Sarkar, A. Sharma and V. Shenoy",
+          "Journal": "JOURNAL OF ADHESION",
+          "Year": "2005"
+        },
+        {
+          "Title": "Adhesion and Debonding of Soft Elastic Films: Crack Patterns, Metastable Pathways and Forces",
+          "Authors": "J. Sarkar, A. Sharma and V. Shenoy",
+          "Journal": "LANGMUIR",
+          "Year": "2005"
+        },
+        {
+          "Title": "Patterns, forces, and metastable pathways in debonding of elastic films",
+          "Authors": "J. Sarkar, V. Shenoy and A. Sharma",
+          "Journal": "PHYSICAL REVIEW LETTERS",
+          "Year": "2004"
+        },
+        {
+          "Title": "Spontaneous surface roughening induced by surface interactions between two compressible elastic films",
+          "Authors": "J. Sarkar, V. Shenoy and A. Sharma",
+          "Journal": "PHYSICAL REVIEW E",
+          "Year": "2003"
+        }
+      ],
+    "Book Chapters": [
+      {
+        "Title": "Simulating Contact Instability in Soft Thin Films through Finite Element Techniques",
+        "Authors": "J. Sarkar, H. Annepu and S. K., Mishra",
+        "Book": "\"Perusal of the Finite Element Method\", book edited by Radostina Petrova",
+        "Year": "2016",
+        "ISBN": "ISBN 978-953-51-2820-5, Print ISBN 978-953-51-2819-9",
+        "URL": "http://www.intechopen.com/books/perusal-of-the-finite-element-method/simulating-contact-instability-in-soft-thin-films-through-finite-element-techniques"
+      },
+      {
+        "Title": "Pattern Formation in Soft Elastic Films Cast on Periodically Corrugated Surfaces– a Linear Stability and Finite Element Analysis",
+        "Authors": "H.  Annepu , J. Sarkar  and S. Basu",
+        "Book": "MODELLING SIMUL. MATER. SCI. ENG.",
+        "Year": "2014"
+      }
+    ],
+    "Conference Presentations": [
+        {
+          "Title": "Debonding of a thin soft elastic film",
+          "Authors": "A. Sharma, J. Sarkar and V. Shenoy",
+          "Conference": "Nanobali 2: Nanotribology: The Liquid-Solid Interface",
+          "Location": "Bali",
+          "Year": "2003"
+        },
+        {
+          "Title": "Adhesion and debonding of elastic films: Patterns, forces and metastability",
+          "Authors": "A. Sharma, J. Sarkar and V. Shenoy",
+          "Conference": "India- Japan Workshop on Surfaces and Interfaces",
+          "Location": "Saha Institute, Kolkata",
+          "Year": "2003"
+        },
+        {
+          "Title": "Patterns, forces and metastable pathways in debonding of elastic films",
+          "Authors": "A. Sharma, J. Sarkar and V. Shenoy",
+          "Conference": "27th Adhesion Society meeting",
+          "Location": "Wilmington, North Carolina",
+          "Date": "February 15-18, 2004"
+        },
+        {
+          "Title": "Adhesion and debonding of elastic films: patterns, forces and metastability",
+          "Authors": "A. Sharma, J. Sarkar and V. Shenoy",
+          "Conference": "STATPHYS-22 Satellite: Pattern Formation in Nonequilibrium Systems",
+          "Location": "Kolkata",
+          "Date": "July 11-13, 2004"
+        },
+        {
+          "Title": "Adhesion, 'dewetting' and debonding of soft elastic films: Patterns, forces and metastability",
+          "Authors": "A. Sharma, J. Sarkar and V. Shenoy",
+          "Conference": "Workshop on Pattern formation through instabilities in thin liquid films: from fundamental aspects to applications",
+          "Location": "Max-Planck Institute for the Physics of Complex Systems, Dresden (Germany)",
+          "Date": "September 21-28, 2004"
+        },
+        {
+          "Title": "Pattern Formation in Thin Films under Confinement",
+          "Authors": "J. Y. Chung, K. H. Kim, M. K. Chaudhury, J. Sarkar and A. Sharma",
+          "Conference": "Adhesion Society Meeting",
+          "Location": "Jacksonville, Florida",
+          "Date": "February, 2006"
+        },
+        {
+          "Title": "Statics and Dynamics of Wet Granulates II",
+          "Authors": "S. H. Ebrahimnazhad, O. Claussen, J. Sarkar, M. Brinkmann, J. Vollmer, S. Herminghaus",
+          "Conference": "Poster Presentation, Scientific Advisory Board Meeting, Max Planck Institute for Dynamics and Self Organization",
+          "Date": "28th February, 2008"
+        },
+        {
+          "Title": "Wet Granulates under Shear",
+          "Authors": "J. Sarkar, Kai Huang, Martin Brinkmann, Jürgen Vollmer, Stephan Herminghaus",
+          "Conference": "Poster Presentation, Dynasoft08",
+          "Location": "Cargese, France",
+          "Date": "August, 2008"
+        },
+        {
+          "Title": "Two dimensional wet granular matter under shear",
+          "Authors": "Kai Huang, Martin Brinkmann, Jayati Sarkar, and Stephan Herminghaus",
+          "Conference": "Fachverband Dynamik und Statistische Physik (DY)",
+          "Year": "2009"
+        },
+        {
+          "Title": "Non-Linear Study of Instabilities of films on Patterned Substrates",
+          "Authors": "J. Sarkar, Hemalatha Annepu, A. Sharma",
+          "Conference": "International Symposium on Non-Equilibrium Soft Matter",
+          "Location": "Nara, Japan",
+          "Year": "2010"
+        },
+        {
+          "Title": "Study of Instabilities of films on Patterned Substrates",
+          "Authors": "J. Sarkar, Hemalatha Annepu, A. Sharma",
+          "Conference": "International Conference of Fundamental And Applications of Nano Science and Technology",
+          "Location": "Jadavpur University, Kolkata, India",
+          "Year": "2010"
+        },
+        {
+          "Title": "Linear Analysis of Instabilities of films on Patterned Substrates",
+          "Authors": "Hemalatha Annepu, J. Sarkar",
+          "Conference": "Chemcon",
+          "Location": "Annamalai University, TamilNadu, India",
+          "Year": "2010"
+        },
+        {
+          "Title": "Miniaturization of Patterns in Elastic  Films by Substrate Patterning and Bilayers Route",
+          "Authors": "Hemalatha Annepu, J. Sarkar",
+          "Conference": "International Conference on Nanoscience and Technology ICONSAT",
+          "Location": "Hyderabad, India",
+          "Year": "2012"
+        },
+        {
+          "Title": "Varicose Instabilities in Elastic Bilayers",
+          "Authors": "Hemalatha Annepu, J. Sarkar",
+          "Conference": "SERC school and symposium on Rheology of Complex Fluids",
+          "Location": "IIT Guwahati, India",
+          "Year": "2012"
+        },
+        {
+          "Title": "Formation of miniaturized patterns at soft interfaces",
+          "Authors": "J. Sarkar",
+          "Conference": "68th IUVSTA Workshop",
+          "Location": "Hong Kong",
+          "Year": "2012"
+        },
+        {
+          "Title": "Mesoscale Pattern Formation in Soft Polymers",
+          "Authors": "H.  Annepu  and  J.  Sarkar",
+          "Conference": "Adhesion,  Science  of  (GRS),  Gordon  Research,  Conference",
+          "Location": "USA",
+          "Year": "2013"
+        },
+        {
+          "Title": "Study  of  the  Dynamics  of  Wet  Granulates  under  Shear",
+          "Authors": "J.  Sarkar  and  D.  Dubey",
+          "Conference": "International  Conference  of  Powder,  Granule  and  Bulk  Solids:  Innovations  and  Applications",
+          "Date": "November,  2013"
+        },
+        {
+          "Title": "Single Cluster Aggregate under shear flow in Couette",
+          "Authors": "D. Dubey and J. Sarkar",
+          "Conference": "IUTAM, Symposium in Multiphase Flows with Phase Change Challenge and Opportunities",
+          "Location": "Hyderabad",
+          "Date": "December, 2014"
+        },
+        {
+          "Title": "Instability and morphology of thickness dependent viscosity liquid films",
+          "Authors": "T. Rao Kotni, J. Sarkar, R. Khanna",
+          "Conference": "Interdisciplinary Surface Science Conference",
+          "Location": "Brimingham, UK",
+          "Date": "April, 2015"
+        },
+        {
+          "Title": "Satellite hole formation in thin liquid films exhibiting thickness dependant viscosity",
+          "Authors": "T. Rao Kotni, J. Sarkar, R. Khanna",
+          "Conference": "Soft  Matter  - Young  Investigators  Meet,  SMYIM",
+          "Location": "Pondicherry",
+          "Date": "December, 2015"
+        },
+        {
+          "Title": "Failure regimes of a single wet granular aggregate under shear",
+          "Authors": "D. Dubey and J. Sarkar",
+          "Conference": "Comp Flu",
+          "Location": "IISER, PUNE",
+          "Year": "2016"
+        },
+        {
+          "Title": "Surface instability and morphology of incompressible elastic thin film having inhomogeneous material properties",
+          "Authors": "S. Sen and J. Sarkar",
+          "Conference": "Seventh National Level Annual Research Symposium of Chemical Engineering Research Scholar,  Chemference",
+          "Location": "IITGandhinagar",
+          "Date": "3-4 Decemder, 2016"
+        },
+        {
+          "Title": "Miniaturization of length scale over patterned substrate",
+          "Authors": "S. Basu and J. Sarkar",
+          "Conference": "Seventh National Level Annual Research Symposium of Chemical Engineering Research Scholar,  Chemference",
+          "Location": "IITGandhinagar",
+          "Date": "3-4 Decemder, 2016"
+        },
+        {
+          "Title": "Experimental observation of minuscule length scale of patterns formed over patterned substrate",
+          "Authors": "S. Basu and J. Sarkar",
+          "Conference": "ComFlu",
+          "Location": "IIIT Hyderabad",
+          "Date": "December 12-14, 2016"
+        },
+        {
+          "Title": "Surface instability and morphology in  inhomogeneous incompressible elastic thin film",
+          "Authors": "J. Sarkar and S. Sen",
+          "Conference": "Soft  Matter  - Young  Investigators  Meet,  SMYIM",
+          "Location": "Goa",
+          "Date": "December, 2016"
+        },
+        {
+          "Title": "Application of CFD: A case study for bio-separation of microbial cells using disc stack centrifuge in production of biotherapeutics",
+          "Authors": "L. Shekhawat, J. Sarkar, A.Rathore",
+          "Conference": "ACS Conference",
+          "Location": "USA",
+          "Year": "2017"
+        },
+        {
+          "Title": "Surface roughness effect on Adhesion-Debonding of soft thin elastic film",
+          "Authors": "S. Mishra, J. Sarkar",
+          "Conference": "New Orleans, Louisiana, APS March Meeting",
+          "Year": "2017"
+        }
+      ]
+  }
+  
